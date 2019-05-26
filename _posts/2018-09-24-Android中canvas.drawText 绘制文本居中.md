@@ -4,8 +4,7 @@ layout: post
 title:  "Android中canvas.drawText 绘制文本居中"  
 date: 2018-09-24  
 description: "Android中canvas.drawText 绘制文本居中"
-tag: Android
-categories: Android开发  
+tag: Android开发
 ---
 
 # Android中canvas.drawText 绘制文本居中

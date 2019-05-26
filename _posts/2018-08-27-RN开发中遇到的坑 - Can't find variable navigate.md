@@ -4,7 +4,6 @@ title:  "RN开发中遇到的坑 - Can't find variable: navigate"
 date: 2018-08-27  
 description: "测试RN开发的组件，在使用navigate做跳转的时候出现了红屏提示。 "
 tag: ReactNative
-categories: ReactNative  
 ---
 
 # RN开发中遇到的坑 - Can't find variable: navigate
