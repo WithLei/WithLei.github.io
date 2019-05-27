@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:  "retrofit 有关线程调度器"  
+title:  "React-Native与安卓原生的混合开发"  
 date: 2018-12-04  
 description: "写在前面 目前很多大厂APP（如淘宝、饿了么、美团等等）并不是纯原生Android&amp;amp;amp;IOS，也不是纯JS开发，而是Hybird APP开发，混合型优势很多：比如热更新，保证在一些类似双十一的活动到来时能够快速上线活动页面，用户不必再去更新APP。再来有效地减小了安装..."
 tag: ReactNative

@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:  "Flutter学习笔记 - 安装，镜像，配置"  
+title:  "Flutter开发中遇到的坑 - Waiting for another flutter command to release the startup lock"  
 date: 2018-12-07  
 description: "Flutter开发中遇到的坑 - Waiting for another flutter command to release the startup lock"
 tag: Flutter
