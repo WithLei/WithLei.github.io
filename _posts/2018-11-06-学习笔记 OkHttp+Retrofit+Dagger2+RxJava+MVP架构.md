@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:  "OkHttp+Retrofit+Dagger2+RxJava+MVP架构 学习笔记"  
+title:  "学习笔记| OkHttp+Retrofit+Dagger2+RxJava+MVP架构"  
 date: 2018-11-06  
 description: "一步一步地讲解各个框架特性及使用"
 tag: Android开发

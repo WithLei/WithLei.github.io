@@ -1,13 +1,12 @@
 ---
 layout: post  
-title:  "OkHttp+Retrofit+RxJava 实现过期Token自动刷新"  
+title:  "学习笔记| OkHttp+Retrofit+RxJava 实现过期Token自动刷新"  
 date: 2018-11-08  
 description: "各自职责：Retrofit 负责 请求的数据 和 请求的结果，使用 接口的方式 呈现，OkHttp 负责请求的过程，RxJava 负责异步，各种线程之间的切换"
 tag: Android开发
 ---
 
 > 在经历了OkHttp、Retrofit、RxJava的学习后，终于可以开始写代码rua！
-> 附我的学习笔记：https://blog.csdn.net/qq_42895379/article/details/83786905#RxJava_221
 
 由于网络上安利这几款火的不行的框架的博客实在是**太多太多太多**了，介绍、优缺点之类的废话就不多说了，这里只介绍下关系。
 - Retrofit：Retrofit是Square公司开发的一款针对Android 网络请求的框架（底层默认是基于OkHttp 实现）。
